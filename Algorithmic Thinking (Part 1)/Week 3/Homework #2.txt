@@ -1,0 +1,41 @@
+The set of all nodes that have degree 0.
+
+O(n)
+
+O(n^2)
+
+f(n) is O(n^2).
+
+f(n) is O(1).
+
+f(n) is O(n)
+
+f(n) is O(n^3)
+
+a0 + a1 + a2 + a3
+
+a0 / 8 + a1 / 4 + a2 / 2 + a3
+
+1 8 / 8 64 xxxxxxxxxxxxxxxxx
+
+Line 5: g,ig,i
+Line 8: d_u¡Á¡Ä
+Line 10: CC¡ú{W}
+Line 11: RemainingNodes - W
+
+O(n^2)
+
+Line 5: g,ig,i
+Line 6: CC¡ú{W}
+Line 7: RemainingNodes - W
+
+O(m+n)
+
+The running time of CC-Distance is asymptotically slower than that of CC-Visited due to the initialization of dd in lines 2-3 of BFS-Distance.
+
+(A^k)[i,j]
+
+The length of the shortest path is the smallest non-negative integer k such that (A^k)[i,j] is non-zero.
+
+
+(Ak)[i,j]?(A^k)[i,j] where kk is the length of the shortest path from node ii to node jj in g.
